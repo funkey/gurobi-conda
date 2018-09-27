@@ -1,0 +1,12 @@
+package:
+  name: gurobi
+  version: "8.0.1"
+
+source:
+  path: gurobi801
+
+build:
+  number: 1
+
+about:
+  home: http://www.gurobi.com/
